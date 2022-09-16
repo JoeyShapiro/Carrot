@@ -12,3 +12,6 @@
     - [ ] functionize
     - [ ] vector struct
     - [ ] message stuct
+- [ ] ?new ncurses
+    - [ ] unicode support
+    - [ ] background color
