@@ -2,11 +2,16 @@
 
 - [ ] build scripts
 - [ ] windows
+    - [x] create sln
+    - [x] add pdcurses
+    - [ ] make pdcurses
+    - [ ] fix inevitable errors
+    - [ ] test
 - [ ] move in degrees that are not increments of 45
 - [ ] watermark
 - [ ] argument flags
 - [ ] input validation
-- [ ] 2d input
+- [x] 2d input
 - [ ] debris
 - [ ] clean code
     - [ ] functionize
